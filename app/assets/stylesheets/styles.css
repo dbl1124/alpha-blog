@@ -1,0 +1,24 @@
+#content {
+  width: 500px;
+  height: 200px;
+  background-color: grey;
+  position: relative;
+  align-content: center;
+}
+
+.h1 {
+  width: 400px;
+  height: 150px;
+  background-color: darkslateblue;
+  padding: 10px;
+  margin: 10px;
+}
+
+h1 {
+  font-family: Helvetica;
+}
+
+a {
+  text-decoration: none;
+  font-family: Helvetica;
+}
